@@ -1,6 +1,6 @@
 # Surface EMG Acquisition and Analysis: A Biomedical Pipeline
 
-This repository contains the code and analysis for the acquisition and processing of Surface Electromyography (sEMG) signals using the BITalino platform. The project develops a complete pipeline from raw data conversion to the extraction of temporal and spectral features for muscle fatigue study.
+This repository contains the code and analysis for the acquisition and processing of Surface Electromyography (sEMG) signals using the BITalino platform. The project develops a complete pipeline from raw data conversion to the extraction of temporal and spectral features for muscle fatigue study
 
 ## 📌 Project Overview
 The objective is to process forearm muscle signals captured via BITalino to evaluate physiological conditions such as fatigue and environmental factors like Power Line Interference (PLI).
