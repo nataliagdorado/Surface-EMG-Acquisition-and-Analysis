@@ -33,6 +33,6 @@ $$EMG(mV) = \frac{(\frac{ADC}{2^n} - 0.5) \cdot VCC}{G_{EMG}} \cdot 1000$$
 * **Fatigue Markers:** Tracking of Mean Frequency (MNF) and Median Frequency (MDF) shifts during sustained contractions.
 
 ## 📂 Requirements
-* Python 3.x
+* Python
 * NumPy, SciPy, Matplotlib, Pandas
-* Google Colab (optional for data visualization tables)
+* Google Colab
